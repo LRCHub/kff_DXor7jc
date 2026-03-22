@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "base_track": "Laughter",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-22T05:25:55.675887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Last Laugh Of The Laughter",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/01_The_Last_Laugh_Of_The_Laughter_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Laughter",
+      "artist": "Act",
+      "has_synced": false,
+      "path": "select/02_Laughter_Act.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Laughter (Seven Inch Mix)",
+      "artist": "Act",
+      "has_synced": false,
+      "path": "select/03_Laughter_(Seven_Inch_Mix)_Act.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bohemian Laughter",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/04_Bohemian_Laughter_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Like Laughter",
+      "artist": "Beth Orton",
+      "has_synced": true,
+      "path": "select/05_Love_Like_Laughter_Beth_Orton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Laughter In a Time of War",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/06_Laughter_In_a_Time_of_War_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When the Laughter Is Over",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/07_When_the_Laughter_Is_Over_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "State Laughter",
+      "artist": "Death In June",
+      "has_synced": true,
+      "path": "select/08_State_Laughter_Death_In_June.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Claws of Laughter Dead",
+      "artist": "At the Gates",
+      "has_synced": true,
+      "path": "select/09_Claws_of_Laughter_Dead_At_the_Gates.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "...and the Laughter Has Died",
+      "artist": "Unleashed",
+      "has_synced": true,
+      "path": "select/10_...and_the_Laughter_Has_Died_Unleashed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fake Smiles and Nervous Laughter",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/11_Fake_Smiles_and_Nervous_Laughter_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shot of Laughter",
+      "artist": "Sugar Ray",
+      "has_synced": true,
+      "path": "select/12_Shot_of_Laughter_Sugar_Ray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Laughter",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Laughter_Official髭男dism.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Laughter",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/localdb_01_Laughter_Official髭男dism.lrc",
+      "repo_name": "kff_DXor7jc"
+    }
+  ]
+}
