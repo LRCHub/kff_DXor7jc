@@ -1,4 +1,4 @@
-# Official髭男dism – Official髭男dism - Laughter［Official Video］
+# Official髭男dism – Laughter
 
 > **歌詞登録ステータス：同期歌詞あり**
 
